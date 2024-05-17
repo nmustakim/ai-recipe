@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694565385841",
+    "project_id": "ai-recipe-72bc0",
+    "storage_bucket": "ai-recipe-72bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694565385841:android:d8e5cf458d273531fc4dd0",
+        "android_client_info": {
+          "package_name": "com.nmustakim.ai_recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaenU7fDfxwmhPsjzBk0XKrdXSUKea-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
