@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**AI Recipe** is a Flutter app that uses **Google Gemini's multimodal AI** to generate personalized recipes from photos of your ingredients. Simply photograph what's in your fridge, optionally filter by cuisine type, dietary restrictions, and staple ingredients, and let Gemini craft a tailored recipe complete with instructions, nutritional info, allergen warnings, and a travel-inspired story behind the dish.
+**AI Recipe** is a Flutter app that uses **Gemini's multimodal AI** to generate personalized recipes from photos of your ingredients. Simply photograph what's in your fridge, optionally filter by cuisine type, dietary restrictions, and staple ingredients, and let Gemini craft a tailored recipe complete with instructions, nutritional info, allergen warnings, and a travel-inspired story behind the dish.
 
 Generated recipes can be saved to **Firebase Firestore** for later reference, rated, and managed from a dedicated saved recipes screen.
 
